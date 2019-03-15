@@ -50,8 +50,7 @@ Then we ran `exiftool` in the following way and we got the attached result:
 
 We also unsuccessfully tried to run a few well known steg tools. 
 
-However, we remarked that it was the same image as the background of the CTF website so we decided to do a `diff between both of them. 
-``
+However, we remarked that it was the same image as the background of the CTF website so we decided to do a `diff` between both of them.
 Here is the original picture of the website:
 ![alt text](header-bg.jpg)
 
