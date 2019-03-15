@@ -4,4 +4,4 @@
 
 ### ~$ ls
 
-[Quals Cyber-security Challenge Belgium 2019](Qualifications/)
+* [Quals Cyber-security Challenge Belgium 2019](Qualifications/)
