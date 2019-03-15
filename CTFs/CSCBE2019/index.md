@@ -1,4 +1,6 @@
-# CSC-BE2019 Qualifiers 
+# CSCBE2019 
+
+This write-up covers some challenges proposed during the Cyber Security Challenge Belgium 2019.
 
 ### [~$ cd ..](../)
 
