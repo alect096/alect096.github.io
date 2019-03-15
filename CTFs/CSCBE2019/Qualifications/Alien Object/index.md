@@ -40,13 +40,15 @@ Thanks to this command, we found that the camera model name was a base64 so we d
 > ```
 
 
-We now have a zip file
+We now have a [zip file](out.zip)
 > ```sh
 > unzip out.zip
 >
 >   Archive:  out.zip
 >   inflating: f    
 > ```
+
+We now have a [file f](f)
 
 > ``` sh
 > cat f
