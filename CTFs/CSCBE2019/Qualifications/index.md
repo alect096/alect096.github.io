@@ -1,4 +1,4 @@
-# CSC-BE2018 Qualifiers
+# CSCBE2019 Qualifiers
 
 ### [~$ cd ..](../)
 
