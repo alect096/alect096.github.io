@@ -6,5 +6,6 @@ This write-up covers some challenges proposed during the qualification phases of
 
 ### ~$ ls
 
-* [Alien Object](Alien Object/)
-* [Digital Brussels](Digital Brussels/)
+* [Alien Object](alien_object/)
+* [Digital Brussels](digital_brussels/)
+* [The ancient writings #1](the_ancient_writings_#1/)

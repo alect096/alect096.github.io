@@ -7,7 +7,7 @@ Here is the image that the creator of the challenge gave us.
 
 We executed `exiftool` on the image in the following way: 
 
-> ``` sh
+> ```sh
 > exiftool cosmos.jpg
 >
 >   ExifTool Version Number         : 11.30
@@ -48,7 +48,7 @@ We now have a zip file
 >   inflating: f    
 > ```
 
-> ``` sh
+> ```sh
 > cat f
 >
 >     Good Job! You found the flag! Here it is:
