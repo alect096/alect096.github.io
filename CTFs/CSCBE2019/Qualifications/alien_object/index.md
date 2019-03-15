@@ -40,7 +40,7 @@ Thanks to this command, we found that the camera model name was a base64 so we d
 > ```
 
 
-We now have a zip file
+We now have a [zip file](out.zip)
 > ```sh
 > unzip out.zip
 >
@@ -48,7 +48,13 @@ We now have a zip file
 >   inflating: f    
 > ```
 
+<<<<<<< HEAD:CTFs/CSCBE2019/Qualifications/alien_object/index.md
 > ```sh
+=======
+We now have a [file f](f)
+
+> ``` sh
+>>>>>>> f299da632f00c9549040e656ce27fb30d17a5c0f:CTFs/CSCBE2019/Qualifications/Alien Object/index.md
 > cat f
 >
 >     Good Job! You found the flag! Here it is:
