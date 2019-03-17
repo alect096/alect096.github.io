@@ -19,4 +19,4 @@ At the end of the time allotted we finished in tenth position.
 * [Dragon.E01](dragon.E01/)
 * [Hacker C4tz](hacker_c4tz/)
 * [The Jail Break Challenge](jail_break/)
-* [The ancient writings #1](the_ancient_writings_#1/)
+* [The ancient writings #1](the_ancient_writings_1/)
