@@ -1,3 +1,4 @@
-./**/.DS_Store
-.idea/*/
 .idea/*.xml
+.idea/*/
+.DS_STORE/
+out/
