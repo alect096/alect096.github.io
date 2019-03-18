@@ -48,13 +48,9 @@ We now have a [zip file](out.zip)
 >   inflating: f    
 > ```
 
-<<<<<<< HEAD:CTFs/CSCBE2019/Qualifications/alien_object/index.md
-> ```sh
-=======
 We now have a [file f](f)
 
-> ``` sh
->>>>>>> f299da632f00c9549040e656ce27fb30d17a5c0f:CTFs/CSCBE2019/Qualifications/Alien Object/index.md
+> ```sh
 > cat f
 >
 >     Good Job! You found the flag! Here it is:
