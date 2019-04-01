@@ -20,3 +20,4 @@ At the end of the time allotted we finished in tenth position.
 * [Hacker C4tz](hacker_c4tz/)
 * [The Jail Break Challenge](jail_break/)
 * [The ancient writings #1](the_ancient_writings_1/)
+* [The ancient writings #2](the_ancient_writings_2/)
