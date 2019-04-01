@@ -7,6 +7,7 @@ For this challenge, we received the following image:
 ![esher image](esher.png)
 
 The trick in this case was to use a [website](http://magiceye.ecksdee.co.uk) to be able to see the text hidden in the 3D image. 
+After to upload the image to the website we need to proceed a 90° rotation to the left.
 
 ![result esher](result.png)
 
