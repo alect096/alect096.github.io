@@ -5,7 +5,7 @@ This write-up covers some challenges proposed during the Cyber Security Challeng
 ### [~$ cd ..](../)
 
 ### Team ~$sudo maso
-* [Enzo Borel](BorelEnzo.github.io)
+* [Enzo Borel](https://borelenzo.github.io)
 * [Franck Fadeur](https://alect096.github.io/)
 * Benjamin Nicodème
 * [Renaud Gaspard](https://renaud11232.github.io/)
