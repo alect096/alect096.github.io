@@ -4,6 +4,10 @@ This write-up covers some challenges proposed during the Cyber Security Challeng
 
 ### [~$ cd ..](../)
 
+At the end of the competition, we finished 7th 
+
+![Ranking ](ranking.png)
+
 ### Team ~$sudo maso
 * [Enzo Borel](https://borelenzo.github.io)
 * [Franck Fadeur](https://alect096.github.io/)
