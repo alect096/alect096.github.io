@@ -32,7 +32,7 @@ After that, we decoded the base64 string to get the following result:
 >	'JZY{k3J0k1u6#JO4s13B6l-ZuJj3zZmB1sF+z01\\/3K}'
 >```
 
-We remarked that the output has the same pattern then the flag of the competition: CSR{some_string}.
+We remarked that the output has the same pattern then the flag of the competition: `CSR{some_string}`.
 
 We tried thanks to this [website](https://cryptii.com/pipes/caesar-cipher) to check each shift to break the cesar cipher. 
 Here is the result and the `csr{d3c0d1n6#ch4l13u6e-sncc3ssfu1ly+s01\\/3d}`.
