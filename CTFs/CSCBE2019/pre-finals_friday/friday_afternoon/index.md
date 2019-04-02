@@ -6,4 +6,4 @@ This write-up covers some challenges proposed during the second part of the pre-
 
 ### ~$ ls
 
-* [Decode me](decode_me)
+* [Decode me](decode_me/)

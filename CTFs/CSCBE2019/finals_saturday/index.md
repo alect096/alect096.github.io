@@ -8,7 +8,7 @@ This write-up covers some challenges proposed during the finals of the Cyber Sec
 
 * [cuteFTP](cuteFTP/)
 * [Let's dance](lets_dance/)
-* [None Shall Pass!!!](no_one_shall_pass)
+* [None Shall Pass!!!](no_one_shall_pass/)
 * [The ancient writings #3](the_ancient_writings_3/)
 
 ![saturday challenges](challenges.png)
