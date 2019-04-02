@@ -4,7 +4,7 @@
 
 For this challenge, we received the following documents:
 
-![Hamlet presentation](./assets/intro.jpeg)
+![Hamlet presentation](./assets/hamlet_intro.png)
 
 ![first part](./assets/first_part.png)
 
