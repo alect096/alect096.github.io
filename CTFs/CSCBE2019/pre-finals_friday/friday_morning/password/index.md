@@ -6,6 +6,8 @@ Author [Renaud11232](https://renaud11232.github.io/)
 
 For this challenge, we were given a sheet of paper with some story about the challenge with `telegram://CSCBEBot` written on it.
 
+![intro password](assets/intro_password.png)
+
 So we installed `Telegram` and joined the bot and were greeted with :
 
 ![start](assets/start.png)
