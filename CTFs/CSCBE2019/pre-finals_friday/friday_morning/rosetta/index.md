@@ -4,7 +4,7 @@
 
 Author [Renaud11232](https://renaud11232.github.io/)
 
-![introduction rosetta](assets/rostta_intro)
+![introduction rosetta](assets/rosetta_intro.png)
 
 For this challenge, we were given a sheet of paper with some cryptograms :
 
