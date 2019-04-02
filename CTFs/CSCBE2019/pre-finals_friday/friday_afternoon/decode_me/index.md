@@ -1,4 +1,4 @@
-# Decode me 
+# Decode me
 
 ### [-$ cd ..](../)
 
@@ -6,10 +6,10 @@
 > +3D+30+33+53+7A+38+43+58+78+41+6A+65+72+59+30+63+78+49+55+62+61+70+33+4D+71+70+55+64+61+31+43
 > +62+32+49+30+4D+78+4D+48+4E+50+70+30+49+32+55+58+4D+72+42+6A+53+7A+73+32+65+5A+70+6C+53
 
-We firstly removed the `+` in this string. We obtained a hexadecimal string 
+We firstly removed the `+` in this string. We obtained a hexadecimal string
 
 > ```sh
-> python 
+> python
 > a = "3D3033537A38435878416A6572593063784955626170334D71705564613143623249304D784D484E507030493255584D72426A537A7332655A706C53"
 > a.decode("hex")
 >	=03Sz8CXxAjerY0cxIUbap3MqpUda1Cb2I0MxMHNPp0I2UXMrBjSzs2eZplS
@@ -17,7 +17,7 @@ We firstly removed the `+` in this string. We obtained a hexadecimal string
 
 We remarked that the obtained string was a reversed base64 encoded string.
 
-We reversed it to get a correct base64 string. 
+We reversed it to get a correct base64 string.
 
 > ```sh
 > _[::-1]
@@ -34,7 +34,7 @@ After that, we decoded the base64 string to get the following result:
 
 We remarked that the output has the same pattern then the flag of the competition: `CSR{some_string}`.
 
-We tried thanks to this [website](https://cryptii.com/pipes/caesar-cipher) to check each shift to break the cesar cipher. 
+We tried thanks to this [website](https://cryptii.com/pipes/caesar-cipher) to check each shift to break the cesar cipher.
 Here is the result and the `csr{d3c0d1n6#ch4l13u6e-sncc3ssfu1ly+s01\\/3d}`.
 
-![shift and result](result.png)
+![shift and result](./assets/result.png)

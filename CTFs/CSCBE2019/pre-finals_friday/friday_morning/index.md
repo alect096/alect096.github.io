@@ -1,4 +1,4 @@
-# CSCBE2019 
+# CSCBE2019
 
 This write-up covers some challenges proposed during the first part of the pre-finals of the Cyber Security Challenge Belgium 2019.
 
@@ -6,5 +6,8 @@ This write-up covers some challenges proposed during the first part of the pre-f
 
 ### ~$ ls
 
-* [Esher](esher)
-* [Hamlet](hamlet)
+* [Esher](esher/)
+* [Hamlet](hamlet/)
+* [John Cage](john_cage/)
+* [Password](password/)
+* [Rosetta](rosetta/)
