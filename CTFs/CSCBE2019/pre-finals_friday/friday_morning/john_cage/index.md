@@ -4,6 +4,8 @@
 
 Author [Renaud11232](https://renaud11232.github.io/)
 
+![introduction john cage](assets/john_cage_intro.png)
+
 For this challenge, we were given a sheet of paper with a QR code and asked to find a two words flag :
 
 ![qr code](assets/qr.png)
