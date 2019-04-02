@@ -1,4 +1,4 @@
-# Ancient Writings #3 (MISC - 350 pts)
+# Ancient Writings #3 (MISC - 210 pts)
 
 ### [~$ cd ..](../)
 
