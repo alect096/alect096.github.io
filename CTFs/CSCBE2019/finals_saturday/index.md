@@ -11,6 +11,7 @@ This write-up covers some challenges proposed during the finals of the Cyber Sec
 * [Go Ez](go_ez/)
 * [Lambdasss](lambdasss/)
 * [Let's dance](lets_dance/)
+* [NOT MALWARE](no_malware/)
 * [None Shall Pass!!!](no_one_shall_pass/)
 * [The ancient writings #3](the_ancient_writings_3/)
 
